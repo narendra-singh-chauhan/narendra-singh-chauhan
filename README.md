@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Arshkhan+Pathan;I'm+22+years+old;I'm+from+India;I+am+a+Full+Stack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Narendra+Singh;I'm+22+years+old;I'm+from+India;I+am+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arshkhan-pathan&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="cceciliaz github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshkhan-pathan&layout=compact&hide_border=true&title_color=D13800a4&text_color=FFFFE0a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=narendra-singh-chauhan&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="cceciliaz github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendra-singh-chauhan&layout=compact&hide_border=true&title_color=D13800a4&text_color=FFFFE0a4&bg_color=0d1117" />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshkhan-pathan&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=narendra-singh-chauhan&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
