@@ -27,6 +27,7 @@
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0D1117?style=for-the-badge&logo=ant-design&labelColor=0D1117)&nbsp;
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-0D1117?style=for-the-badge&logo=stripe&labelColor=0D1117)&nbsp;
+![Stripe](https://img.shields.io/badge/-Google%20Cloud%20Platform-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117)&nbsp;
 
   
 <div align="center">
