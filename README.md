@@ -28,6 +28,12 @@
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-0D1117?style=for-the-badge&logo=stripe&labelColor=0D1117)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Google%20Cloud%20Platform-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117)&nbsp;
+![Stripe](https://img.shields.io/badge/-Auth0-0D1117?style=for-the-badge&logo=auth0&labelColor=0D1117)&nbsp;
+![Stripe](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![Stripe](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Stripe](https://img.shields.io/badge/-JQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
+![Stripe](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+![Stripe](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117)&nbsp;
 
   
 <div align="center">
