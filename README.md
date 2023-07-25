@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header&text=MERN%20Stack%20Developer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1F&height=120&section=header"/>
 
 
 
