@@ -1,13 +1,4 @@
-<img width="100%" src="https://via.placeholder.com/800x120/FFEB00/E80C1F?text=Hello%2C+I'm+Narendra+Singh"/>
-
-<img width="100%" src="https://via.placeholder.com/800x120/007BFF/E80C1F?text=React+Node+Express+MongoDB"/>
-
-<img width="100%" src="https://via.placeholder.com/800x120/28A745/E80C1F?text=Welcome+to+my+Repo"/>
-
-<img width="100%" src="https://via.placeholder.com/800x120/17A2B8/E80C1F?text=console.log(%22Hello%2C+Narendra%22)"/>
-
-<img width="100%" src="https://via.placeholder.com/800x120/6610F2/E80C1F?text=Full+Stack+Developer"/>
-
+<img width="100%" src="https://via.placeholder.com/800x120?text=React%20%7C%20Node.js%20%7C%20Express%20%7C%20MongoDB"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=24&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Narendra+Singh;Full+Stack+Developer+with+1.5+years+of+experience;Expertise+in+React%2C+Node%2C+Express%2C+MongoDB%2C+and+more;Passionate+about+building+robust+web+applications;Welcome+to+my+GitHub+profile!+%3A%29)](https://git.io/typing-svg)
