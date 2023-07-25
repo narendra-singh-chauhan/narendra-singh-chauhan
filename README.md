@@ -22,13 +22,11 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![Material UI](https://img.shields.io/badge/-Material%20UI-0D1117?style=for-the-badge&logo=material-ui&labelColor=0D1117)&nbsp;
+![Material UI](https://img.shields.io/badge/-Material%20UI-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117)&nbsp;
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-0D1117?style=for-the-badge&logo=chakra-ui&labelColor=0D1117)&nbsp;
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0D1117?style=for-the-badge&logo=ant-design&labelColor=0D1117)&nbsp;
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
-![Formik & Yup](https://img.shields.io/badge/-Formik%20%26%20Yup-0D1117?style=for-the-badge&logo=formik&labelColor=0D1117)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-0D1117?style=for-the-badge&logo=stripe&labelColor=0D1117)&nbsp;
-![Merchant UPI Gateway](https://img.shields.io/badge/-Merchant%20UPI%20Gateway-0D1117?style=for-the-badge&logo=merchant-upigateway&labelColor=0D1117)&nbsp;
 
   
 <div align="center">
