@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Narendra+Singh;I'm+a+passionate+and+highly+skilled+Full+Stack+Developer;With+over+1.5+years+of+experience+in+building+web+applications;I+take+pride+in+delivering+robust%2C+efficient%2C+and+scalable+solutions;Welcome+to+my+GitHub+profile!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=24&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Narendra+Singh;Full+Stack+Developer+with+1.5+years+of+experience;Expertise+in+React%2C+Node%2C+Express%2C+MongoDB%2C+and+more;Passionate+about+building+robust+web+applications;Welcome+to+my+GitHub+profile!+%3A%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=narendra-singh-chauhan&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="cceciliaz github stats" /> 
