@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E80C1F&height=120&section=header"/>
-
 <img width="100%" src="https://via.placeholder.com/800x120/FFEB00/E80C1F?text=Hello%2C+I'm+Narendra+Singh"/>
 
 <img width="100%" src="https://via.placeholder.com/800x120/007BFF/E80C1F?text=React+Node+Express+MongoDB"/>
